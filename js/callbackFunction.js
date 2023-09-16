@@ -12,7 +12,6 @@
 
 // callMyName('Abir Abdullah', hello);
 
-
 /* ======= Function returned by function ======== */
 
 // function welcomeMsg(name) {
